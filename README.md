@@ -1,7 +1,5 @@
 
 
-<!--
-**ishika955/ishika# 💫 About Me:
 I’m a 2nd-year Computer Science Engineering student passionate <br>about learning and building. Currently exploring the world of <br>Product Management while strengthening my skills in C++ and Java.<br><br>🏆 State Champion – VBYLD 2025 (Tech for Viksit Bharat)<br>🌍 State Volunteer, contributing to impactful initiatives<br>💡 Interested in the intersection of technology & product building
 
 
@@ -23,6 +21,3 @@ I’m a 2nd-year Computer Science Engineering student passionate <br>about learn
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ishika955&icon=1&color=8)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->955** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
