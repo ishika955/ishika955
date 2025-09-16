@@ -42,6 +42,12 @@ Currently exploring the world of **Product Management** while strengthening my s
 
 ---
 
+## 📌 Featured Projects
+- 🏋️ [Fitness Tracker](https://github.com/ishika955/Fitness-Tracker) – A frontend-based web app to track fitness activities. Built using **HTML, CSS, and JavaScript**.  
+- 🎟️ [Online Ticket Booking Platform](https://github.com/ishika955/Online-Ticket-booking) *(Work in Progress)* – A responsive platform for booking tickets online, developed with **HTML, CSS, and JavaScript**.  
+
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ishika955&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,PullRequest,Issues,Organizations)
 
