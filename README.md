@@ -1,3 +1,4 @@
+# 💫 About Me
 I’m a **2nd-year Computer Science Engineering student** passionate about learning and building.  
 Currently exploring the world of **Product Management** while strengthening my skills in **C++** and **Java**.  
 
@@ -42,11 +43,9 @@ Currently exploring the world of **Product Management** while strengthening my s
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishika955&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ishika955&theme=radical&no-frame=false&no-bg=false&margin-w=4&title=Commits,Repositories,PullRequest,Issues,Organizations)
 
 ---
 
-
 [![](https://visitcount.itsvg.in/api?id=ishika955&icon=1&color=8)](https://visitcount.itsvg.in)
-
 
