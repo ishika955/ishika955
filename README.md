@@ -1,5 +1,5 @@
 # 💫 About Me
-I’m a **2nd-year Computer Science Engineering student** passionate about learning and building.  
+I’m a **3rd-year Computer Science Engineering student** passionate about learning and building.  
 Currently exploring the world of **Product Management** while strengthening my skills in **Java**.  
 
 - 🏆 **State Champion – VBYLD 2025 (Tech for Viksit Bharat)**  
