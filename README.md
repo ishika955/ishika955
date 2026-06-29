@@ -6,10 +6,10 @@ Computer Science Engineering Student | Java Learner | Web Developer | Product-mi
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishika-8263b9354">
-    <img src="https://img.shields.io/badge/LinkedIn-Ishika%20Bedi-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Ishika%20Bedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ishikabedi55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,17 +32,21 @@ I enjoy building web-based projects that solve real problems, and I’m currentl
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
@@ -51,10 +55,12 @@ I enjoy building web-based projects that solve real problems, and I’m currentl
 
 ## 🚀 Featured Projects
 
-### 🧓 Carvel — Elderly Care Management System
+### 🧓 [Carvel — Elderly Care Management System](https://github.com/ishika955/carvel-v2)
+
 A web-based elderly care management system that connects caretakers, family members, and doctors for better health monitoring and communication.
 
 **Key Features:**
+
 - Patient and caretaker management
 - Medication and care entry tracking
 - Alert system for health-related updates
@@ -64,10 +70,12 @@ A web-based elderly care management system that connects caretakers, family memb
 
 ---
 
-### 🎫 Online Ticket Booking Platform
+### 🎫 [Online Ticket Booking Platform](https://github.com/ishika955/Online-Ticket-booking-app)
+
 A responsive frontend-based transport ticket booking platform for buses, trains, and flights.
 
 **Key Features:**
+
 - Search available transport options
 - User-friendly booking interface
 - Responsive design for better accessibility
@@ -76,10 +84,12 @@ A responsive frontend-based transport ticket booking platform for buses, trains,
 
 ---
 
-### 🏋️ Fitness Tracker
+### 🏋️ [Fitness Tracker](https://github.com/ishika955/Fitness-Tracker)
+
 A frontend web application to track fitness activities and improve daily health monitoring.
 
 **Key Features:**
+
 - Activity tracking interface
 - Simple and clean UI
 - Beginner-friendly frontend project structure
@@ -88,22 +98,20 @@ A frontend web application to track fitness activities and improve daily health 
 
 ---
 
-### 🎓 ScholarSync
+### 🎓 [ScholarSync](https://github.com/ishika955/ScholarSync-1)
+
 A student-focused project aimed at improving academic organization and learning workflows.
 
 **Tech Stack:** JavaScript
 
 ---
 
-## 📊 GitHub Stats
+## 📌 What I’m Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishika955&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishika955&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
+- Real-world web applications using HTML, CSS, JavaScript, and backend technologies
+- Backend features for project workflows and data handling
+- Stronger Java + DSA foundation for internship interviews
+- Cleaner documentation and GitHub project structure
 
 ---
 
