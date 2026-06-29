@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ishika Bedi 👋</h1>
+<h1 align="center">Hi, I'm Ishika Bedi </h1>
 
 <h3 align="center">
 Computer Science Engineering Student | Java Learner | Web Developer | Product-minded Builder
@@ -32,7 +32,6 @@ I enjoy building web-based projects that solve real problems, and I’m currentl
 ## 🛠️ Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
